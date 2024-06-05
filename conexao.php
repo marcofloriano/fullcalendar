@@ -1,7 +1,7 @@
 <?php 
 $host = 'localhost';
 $user = 'root';
-$pass = 'fiador.e3';
+$pass = '';
 $dbname = 'fullcalendar';
 $port = '3306';
 
